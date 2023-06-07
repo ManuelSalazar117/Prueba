@@ -1,2 +1,4 @@
 Aprendiendo desde 0
+Esto es Vim
+Actualmente estoy aprendiendo a programar
 
